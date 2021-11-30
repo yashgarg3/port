@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Yash Garg",
+    "occupation": "Student",
+    "description": "doing my Dual-degree course in Civil Engineering from IIT (BHU), Varanasi and I am interested in Software Development and Technology",
+    "bio": "Hello everyone, I am Yash Garg. I am a hardworking and dedicated person who like to take challenges. I am interested in technology, Software Development, Web Development. I love reading a lot and am a huge Potter Fan",
+    "email": "gargyash204@gmail.com",
+    "phone": "+91 9113475844",
+    "address": {
+      "street": "Parow Pokhar, Lane 1, Aamgola",
+      "city": "Muzaffarpur",
+      "state": "Bihar",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/yash.garg.75054689/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yash-garg-686b63161/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gargyash204",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Indian Institute of Technology, Banaras Hindu University (IIT BHU), Varanasi",
+        "degree": "Dual-Degree in Civil Engineering",
+        "graduated": "to be graduated in July-2022",
+        "description": ""
+      },
+      {
+        "school": "Sri Chaitanya Techno School, Vijaywada",
+        "degree": "Class 12",
+        "graduated": "2017",
+        "description": "95.8% marks, Board of Affiliation - CBSE"
+      },
+      {
+        "school": "Ramakrishna Mission Vidyapith, Deoghar, Jharkhand",
+        "degree": "Class 10",
+        "graduated": "2015",
+        "description": "10 CGPA , Board of Affiliation - CBSE"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tech Edunomics",
+        "title": "Frontend Development Intern",
+        "years": "May 2021 - July 2021",
+        "description": "Worked on live projects of Company. Worked on the Frontend of CXDeployer and IdeaDeployer Website. Made few mobile responsive website page on both website on ReactJS. Also cloned the website frontend of various website."
+      },
+      {
+        "company": "Project",
+        "title": "Intern",
+        "years": "May 2021 - July 2021",
+        "description": "Made an API to update the list of URLs on Database(MongoDB) for different profile. Made an API to Delete the uploaded image from AWS S3. Made an API to Upload an Image on AWS S3."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
